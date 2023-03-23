@@ -1,0 +1,85 @@
+button{
+    height: 90%;
+    margin: auto auto auto auto;
+    color: white;
+    background-color: rgba(3, 65, 62,1);
+}
+
+.edit{
+    background-color: darkgreen;
+    width: 100px;
+    height: 50%;
+}
+
+.delete{
+    background-color: red;
+    width: 100px;
+    height: 50%;
+}
+
+.popup{
+    background-color: dimgray;
+    margin-top: 5%;
+    width: 640px;
+    margin-left: 25%;
+    height: 360px;
+    box-shadow: 2px grey;
+    border: 2px solid black;
+    border-radius: 3px;
+}
+
+.modal_header{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.popup_name{
+    margin: 0 auto;
+    text-align: center;
+    font-size: 25px;
+}
+
+.popup_body{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    height: 83%;
+    font-size: 15px;
+    margin-left: 50px;
+}
+
+.body_item{
+    display: flex;
+    flex-direction: row;
+}
+
+#body_alternativas{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
+
+.body_label{
+    width: 30%;
+}
+
+a{
+    color: white;
+}
+
+img{
+    max-height: 100%;
+    max-width: 100%;
+}
+
+input{
+    border-radius: 4px;
+    -moz-border-radius: 4px;
+    -webkit-border-radius: 4px;
+    box-shadow: 1px 1px 2px #333333;
+    -moz-box-shadow: 1px 1px 2px #333333;
+    -webkit-box-shadow: 1px 1px 2px #333333;
+    background: lightgray;
+    border: 1px solid #000000;
+}

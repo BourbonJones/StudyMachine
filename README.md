@@ -1,1 +1,2 @@
-# StudyMachine
+# Study Machine
+Sistema de Exercícios;

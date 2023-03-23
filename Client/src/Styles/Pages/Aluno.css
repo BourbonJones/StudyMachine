@@ -1,0 +1,43 @@
+.assuntos{
+    list-style: none;
+    width: 70vw;
+}
+
+.assuntos > li{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    border: 2px solid black;
+    border-radius: 4px;
+    box-shadow: 2px 2px 2px black;
+    margin-bottom: 10px;
+    height: 70px;
+    font-weight: bold;
+}
+
+.assuntos_header{
+    background-color: rgba(3, 65, 62,1);
+    color: white;
+    font-size: 30px;
+}
+
+.infos{
+    background-color: white;
+    color: rgba(3, 65, 62,1);
+}
+
+.info{
+    width: 20vw;
+    line-height: 70px;
+    text-align: center;
+    font-size: 15px;
+}
+
+.infoA:hover{
+    cursor: pointer;
+}
+
+.erro{
+    text-align: center;
+    font-size: 100px;
+}
