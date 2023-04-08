@@ -1,12 +1,11 @@
 # Frontend
 
-## Funcionalidades Faltantes
+## Imagens de Apresentação
 
-Edit Assunto: Visualizar exercicio, excluir exercicio, excluir resumo
+![Aluno Home Page](./assets/smHomePage.jpg)
 
-Assunto: Gerar novo teste * , desmatricular-se *
+![Aluno Testes](./assets/smTeste.jpg)
 
-Teste: automatizar a páagina de testes
+![Professor Mode](./assets/smProfessorMode.jpg)
 
-### Legenda
-(*) -> prioridades
+![Professor Assunto](./assets/smProfessorAssunto.jpg)
